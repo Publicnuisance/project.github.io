@@ -1,3 +1,7 @@
+#body{
+    background-image:url(http://i244.photobucket.com/albums/gg10/FulMetlJakit/electron_7_couleur.gif);
+
+}
 #header {
     background-color:#330033;
     text-align:center;
@@ -6,11 +10,11 @@
 }
 #nav {
     line-height:20px;
-    background-color:#eeeeee;
     height:300px;
     width:150px;
     float:left;
     padding:5px;
+    color:Orange;
 }
 #section {
     text-align:center;
